@@ -1,6 +1,6 @@
 # ![emichel](https://images.unsplash.com/photo-1546900703-cf06143d1239?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1591&q=80)
 
-### Salut 👋
+### Salut  👋🏽  
 
 
 I am a junior developer who is looking to solve real world problems. I have a passion for learning and sharing my knowledge with others I am currently training in web development.
