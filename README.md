@@ -22,8 +22,6 @@ These are the languages I have been working with. I am currently working on pers
 ![Bootstrap](ressources/bootstrap.png)
 ![SCSS](ressources/sass.png)
 ![JavaScript](ressources/javascript.png)
-<!-- ![React](ressources/react.png) -->
-<!-- ![nodeJS](ressources/nodejs.png) -->
 ![PHP](ressources/php.png)
 ![MySQL](ressources/mysql.png)
 <!-- ![Wordpress](ressources/wordpress.png) -->
