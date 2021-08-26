@@ -37,4 +37,10 @@ These are the languages I have been working with. I am currently working on pers
 
 ![Rams's github stats](https://github-readme-stats.vercel.app/api?username=rcolson243&theme=gotham&show_icons=true)
 
+<p> 
+
+[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<img src="https://visitor-badge.glitch.me/badge?page_id=rcolson243.visitor-badge"/> 
+</p>
+
 
