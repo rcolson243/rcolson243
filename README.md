@@ -32,7 +32,9 @@ These are the languages I have been working with. I am currently working on pers
    - MYSQL <br/>
    - SEO
 </details>
+
 <br/>
+
 ![Rams's github stats](https://github-readme-stats.vercel.app/api?username=rcolson243&theme=gotham&show_icons=true)
 
 
